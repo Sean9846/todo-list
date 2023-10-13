@@ -1,0 +1,44 @@
+.item-title {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.item-description {
+    padding: 5px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#priority {
+    padding: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.delete {
+    padding: 5px 14px;
+    font-weight: bold;
+    color: #ffffff;
+    background: #009578;
+    cursor: pointer;
+}
+
+/* .item-completed:checked + .item-title  {
+    background: #dddddd;
+    text-decoration: line-through;
+} */
+
+
+/* .item-completed:checked + .item-description {
+    background: #dddddd;
+    text-decoration: line-through;
+} */
+
+#add {
+    padding: 8px 14px;
+    font-weight: bold;
+    color: #ffffff;
+    background: #009578;
+    cursor: pointer;
+}
